@@ -1,2 +1,2 @@
 # CatFinder
-A program to help find kitties who need homes! 
+A program designed to simplify the process of finding a furrever friend! Our program will skim through different nearby shelters, given the users filters, and find ones that match! The process of searching through different sites to find the purrfect cat can be daunting and scary, so our programs goal is to make that less scary, so more kitties are accesible to people too overwhelmed. Our program will also have a "new owners info" to compile all need-to-know facts, so everything a new owner needs is all in one place!
