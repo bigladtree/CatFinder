@@ -63,7 +63,7 @@ public class CatListing {
         return color;
     }
 
-    public void setColor() {
+    public void setColor(String color) {
         this.color = color;
     }
 
