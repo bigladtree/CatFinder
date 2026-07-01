@@ -8,6 +8,7 @@ public class CatListing {
     private String size;
     private String color;
     private String sourceShelter;
+    private String adoptionFee;
     private String platform;
     private String sourceUrl;
     private String photoUrl;
@@ -75,6 +76,14 @@ public class CatListing {
         this.sourceShelter = sourceShelter;
     }
 
+    public String getAdoptionFee() {
+        return adoptionFee;
+    }
+
+    public void setAdoptionFee(String adoptionFee) {
+        this.adoptionFee = adoptionFee;
+    }
+
     public String getPlatform() {
         return platform;
     }
@@ -103,7 +112,7 @@ public class CatListing {
         return description;
     }
 
-    public void setDecription(String description) {
+    public void setDescription(String description) {
         this.description = description;
     }
 

@@ -1,5 +1,9 @@
 package catscout.catscout.webscraper;
 
-public class ShelterScraper {
+import java.util.List;
 
+public interface ShelterScraper {
+    List<CatListing> scrape(String shelterId);
+
+    String getPlatformName();
 }
